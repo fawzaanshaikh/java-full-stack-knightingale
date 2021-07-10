@@ -1,6 +1,7 @@
 package knightingale;
 
 public class VariablesDemo {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		/* Variable valid identifiers */
 
