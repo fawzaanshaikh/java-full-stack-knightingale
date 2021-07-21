@@ -1,4 +1,4 @@
-package knightingale;
+package knightingale.practice;
 
 public class VariablesDemo {
 	@SuppressWarnings("unused")

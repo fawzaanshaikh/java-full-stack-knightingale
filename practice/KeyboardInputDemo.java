@@ -1,4 +1,4 @@
-package knightingale;
+package knightingale.practice;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package knightingale;
+package knightingale.week2;
 
 public class NestedForLop {
 	public static void main(String[] args) {

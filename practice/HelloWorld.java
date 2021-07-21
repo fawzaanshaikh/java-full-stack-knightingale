@@ -1,4 +1,4 @@
-package knightingale;
+package knightingale.practice;
 
 public class HelloWorld {
 	public static void main(String[] args) {

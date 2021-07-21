@@ -1,4 +1,4 @@
-package knightingale;
+package knightingale.week2;
 
 public class TypeCasting {
 	public static void main(String[] args) {

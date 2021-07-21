@@ -1,4 +1,4 @@
-package knightingale;
+package knightingale.week2;
 
 import java.util.Scanner;
 

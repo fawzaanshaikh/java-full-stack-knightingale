@@ -1,4 +1,4 @@
-package knightingale;
+package knightingale.practice;
 
 public class ConditionalDemo2 {
 	public static void main(String[] args) {

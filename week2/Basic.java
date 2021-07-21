@@ -1,4 +1,4 @@
-package knightingale;
+package knightingale.week2;
 
 public class Basic {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package knightingale;
+package knightingale.practice;
 
 public class BreakAndContinue {
 	@SuppressWarnings("unused")
